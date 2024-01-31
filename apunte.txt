@@ -1,0 +1,3 @@
+//Realidad importante numero 3
+
+La memoria no es infinita, hay que saber administrarla por el sistema
